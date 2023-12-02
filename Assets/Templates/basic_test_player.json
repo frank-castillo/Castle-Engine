@@ -1,0 +1,34 @@
+{
+    "Components": {
+        "TransformComponent": {
+            "Position": [ 0.0, 0.0, 0.0 ]
+        },
+        "ModelComponent": {
+            "FileName": "../../Assets/Models/Archer/ArcherIdle.model",
+            "Animations": [
+                "../../Assets/Models/Archer/Anims/StandingSprintForward.animset",
+                "../../Assets/Models/Archer/Anims/StandingRunLeft.animset",
+                "../../Assets/Models/Archer/Anims/StandingRunRight.animset",
+                "../../Assets/Models/Archer/Anims/WalkBack.animset"
+            ]
+        },
+        "ColliderComponent": {
+            "Shape": {
+                "Type": "Hull",
+                "HalfExtents": [ 0.5, 1.0, 0.5 ],
+                "Origin": [ 0.0, -1.0, 0.0 ]
+            }
+        },
+      "RigidBodyComponent": {
+        "Mass": 1.0
+      },
+      "AudioComponent": {
+        "Loop": false,
+        "SoundEffect": "megamanx_blast.wav"
+      },
+      "PlayerControllerComponent": {
+
+      },
+      "PlayerInputControllerComponent": {}
+    }
+}

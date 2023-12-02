@@ -1,0 +1,19 @@
+-scale 0.01 ../../Assets/Models/Jones/character.fbx ../../Assets/Models/Jones/character.model
+-scale 0.01 ../../Assets/Models/Jones/SillyDancing.fbx ../../Assets/Models/Jones/SillyDancing.model
+-scale 0.01 ../../Assets/Models/Granny/PrayingGranny.fbx ../../Assets/Models/Granny/PrayingGranny.model
+-scale 0.01 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/ArcherIdle.model
+
+-scale 0.01 ../../Assets/Models/Mutant/Mutant.fbx ../../Assets/Models/Mutant/Mutant.model
+
+
+-scale 0.01 ../../Assets/Models/Racer/Ch20_nonPBR.fbx ../../Assets/Models/Racer/Ch20_nonPBR.model
+
+// Animations
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/WalkForward.fbx
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/WalkBack.fbx
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/StandingRunRight.fbx
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/StandingRunLeft.fbx
+
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/StandingMeleeKick.fbx
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/StandingSprintForward.fbx
+-scale 0.01 -animOnly 1 ../../Assets/Models/Archer/ArcherIdle.fbx ../../Assets/Models/Archer/Anims/UnarmedIdle.fbx
